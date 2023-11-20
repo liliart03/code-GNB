@@ -16,7 +16,7 @@ body {
 }
 .headerrouge {
   width: 1660px;
-  height: 128px;
+  height: 170px;
   background: rgba(152,0,0,0.8899999856948853);
   opacity: 1;
   position: absolute;
@@ -24,8 +24,8 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v23_23 {
-  width: 200px;
+.imgchien {
+  width: 100px;
   height: 104px;
   background: url("../images/v23_23.png");
   background-repeat: no-repeat;
@@ -34,12 +34,12 @@ body {
   opacity: 1;
   position: absolute;
   top: 1496px;
-  left: 1000px;
+  left: 220px;
   overflow: hidden;
   right:50px;
 }
 .v51_76 {
-  width: 135px;
+  width: 1000px;
   height: 26px;
   background: rgba(0,0,0,1);
   opacity: 0.30000001192092896;
@@ -53,8 +53,8 @@ body {
   overflow: hidden;
 }
 .logo {
-  width: 60px;
-  height: 90px;
+  width: 100px;
+  height: 130px;
   background: url("../images/v58_120.png");
   background-repeat: no-repeat;
   background-position: center center;
@@ -66,13 +66,13 @@ body {
   overflow: hidden;
 }
 .v22_2 {
-  width: 80px;
-  height: 26px;
+  width: 200px;
+  height: 45px;
   background: rgba(0,0,0,1);
   opacity: 1;
   position: absolute;
-  top: 20px;
-  left: 15px;
+  top: 10px;
+  left: 200px;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
   border-bottom-left-radius: 30px;
@@ -80,13 +80,13 @@ body {
   overflow: hidden;
 }
 .v22_3 {
-  width: 80px;
-  height: 26px;
+  width: 200px;
+  height: 45px;
   background: rgba(0,0,0,1);
   opacity: 1;
   position: absolute;
-  top: 58px;
-  left: 15px;
+  top: 65px;
+  left: 200px;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
   border-bottom-left-radius: 30px;
@@ -94,13 +94,13 @@ body {
   overflow: hidden;
 }
 .v22_4 {
-  width: 80px;
-  height: 26px;
+  width: 200px;
+  height: 45px;
   background: rgba(0,0,0,1);
   opacity: 1;
   position: absolute;
-  top: 96px;
-  left: 15px;
+  top: 120px;
+  left: 200px;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
   border-bottom-left-radius: 30px;
@@ -108,60 +108,60 @@ body {
   overflow: hidden;
 }
 .texteduhaut {
-  width: 328px;
+  width: 550px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 210px;
-  left: 27px;
+  top: 250px;
+  left: 525px;
   font-size: 14px;
   opacity: 1;
   text-align: center;
 }
 .v21_6 {
-  width: 328px;
+  width: 600px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 140px;
-  left: 27px;
+  top: 180px;
+  left: 500px;
   font-family: Inter;
   font-weight: Bold;
-  font-size: 30px;
+  font-size: 50px;
   opacity: 1;
   text-align: center;
 }
-.v22_59 {
-  width: 46px;
+.accueil {
+  width: 70px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 27px;
-  left: 27px;
+  top: 22px;
+  left: 260px;
   font-family: Inter;
   font-weight: Black;
-  font-size: 10px;
+  font-size: 20px;
   opacity: 1;
   text-align: center;
 }
-.v22_60 {
-  width: 42px;
+.events {
+  width: 70px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 65px;
-  left: 29px;
+  top: 77px;
+  left: 260px;
   font-family: Inter;
   font-weight: Black;
-  font-size: 10px;
+  font-size: 20px;
   opacity: 1;
   text-align: center;
 }
-.v22_61 {
-  width: 31px;
+.infos {
+  width: 70px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 103px;
-  left: 35px;
+  top: 132px;
+  left: 260px;
   font-family: Inter;
   font-weight: Black;
-  font-size: 10px;
+  font-size: 20px;
   opacity: 1;
   text-align: center;
 }
@@ -174,7 +174,7 @@ body {
   top: 2331px;
   left: 0px;
 }
-.v22_64 {
+.SC1{
   width: 101px;
   height: 104px;
   background: url("../images/v22_64.png");
@@ -184,10 +184,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 524px;
-  left: 54px;
+  left: 1px;
   overflow: hidden;
 }
-.v22_65 {
+.SC3 {
   width: 101px;
   height: 104px;
   background: url("../images/v22_65.png");
@@ -197,10 +197,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 678px;
-  left: 54px;
+  left: 100px;
   overflow: hidden;
 }
-.v22_66 {
+.SC4 {
   width: 102px;
   height: 104px;
   background: url("../images/v22_66.png");
@@ -210,10 +210,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 685px;
-  left: 220px;
+  left: 300px;
   overflow: hidden;
 }
-.v22_68 {
+.SC6 {
   width: 101px;
   height: 104px;
   background: url("../images/v22_68.png");
@@ -223,10 +223,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 846px;
-  left: 221px;
+  left: 300px;
   overflow: hidden;
 }
-.v22_69 {
+.SC2 {
   width: 102px;
   height: 104px;
   background: url("../images/v22_69.png");
@@ -236,10 +236,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 524px;
-  left: 220px;
+  left: 300px;
   overflow: hidden;
 }
-.v22_70 {
+.SC5 {
   width: 101px;
   height: 104px;
   background: url("../images/v22_70.png");
@@ -252,7 +252,7 @@ body {
   left: 54px;
   overflow: hidden;
 }
-.v25_4 {
+.JK1 {
   width: 101px;
   height: 104px;
   background: url("../images/v25_4.png");
@@ -262,10 +262,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 1171px;
-  left: 54px;
+  left: 100px;
   overflow: hidden;
 }
-.v25_9 {
+.JK2 {
   width: 101px;
   height: 104px;
   background: url("../images/v25_9.png");
@@ -275,10 +275,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 1175px;
-  left: 221px;
+  left: 200px;
   overflow: hidden;
 }
-.v25_10 {
+.JK3 {
   width: 101px;
   height: 104px;
   background: url("../images/v25_10.png");
@@ -291,7 +291,7 @@ body {
   left: 54px;
   overflow: hidden;
 }
-.v25_6 {
+.JK4 {
   width: 101px;
   height: 104px;
   background: url("../images/v25_6.png");
@@ -304,7 +304,7 @@ body {
   left: 221px;
   overflow: hidden;
 }
-.v25_8 {
+.JK5 {
   width: 101px;
   height: 104px;
   background: url("../images/v25_8.png");
@@ -314,10 +314,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 1493px;
-  left: 54px;
+  left: 60px;
   overflow: hidden;
 }
-.v25_13 {
+.SC {
   width: 310px;
   height: 137px;
   background: url("../images/v25_13.png");
@@ -327,10 +327,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 356px;
-  left: 28px;
+  left: 1000px;
   overflow: hidden;
 }
-.v38_3 {
+.AD1{
   width: 101px;
   height: 104px;
   background: url("../images/v38_3.png");
@@ -340,10 +340,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 1848px;
-  left: 54px;
+  left: 200px;
   overflow: hidden;
 }
-.v38_2 {
+.AD2 {
   width: 101px;
   height: 104px;
   background: url("../images/v38_2.png");
@@ -353,10 +353,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 1848px;
-  left: 221px;
+  left: 54px;
   overflow: hidden;
 }
-.v38_4 {
+.AD3 {
   width: 101px;
   height: 104px;
   background: url("../images/v38_4.png");
@@ -366,10 +366,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 2009px;
-  left: 54px;
+  left: 1000px;
   overflow: hidden;
 }
-.v38_7 {
+.AD4 {
   width: 101px;
   height: 104px;
   background: url("../images/v38_7.png");
@@ -379,10 +379,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 2009px;
-  left: 221px;
+  left: 500px;
   overflow: hidden;
 }
-.v38_6 {
+.AD5 {
   width: 101px;
   height: 104px;
   background: url("../images/v38_6.png");
@@ -392,10 +392,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 2170px;
-  left: 54px;
+  left: 100px;
   overflow: hidden;
 }
-.v38_8 {
+.AD6 {
   width: 101px;
   height: 104px;
   background: url("../images/v38_8.png");
@@ -405,10 +405,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 2170px;
-  left: 221px;
+  left: 300px;
   overflow: hidden;
 }
-.v38_11 {
+.JK {
   width: 310px;
   height: 137px;
   background: url("../images/v38_11.png");
@@ -418,10 +418,10 @@ body {
   opacity: 1;
   position: absolute;
   top: 998px;
-  left: 33px;
+  left: 100px;
   overflow: hidden;
 }
-.v38_10 {
+.AD {
   width: 310px;
   height: 137px;
   background: url("../images/v38_10.png");
@@ -431,24 +431,24 @@ body {
   opacity: 1;
   position: absolute;
   top: 1654px;
-  left: 33px;
+  left: 100px;
   overflow: hidden;
 }
-.v38_20 {
+.cercleSC {
   width: 135px;
   height: 26px;
-  background: rgba(0,0,0,1);
+  background: blue;
   opacity: 0.30000001192092896;
   position: absolute;
   top: 415px;
-  left: 116px;
+  left: 200px;
   border-top-left-radius: 50px;
   border-top-right-radius: 50px;
   border-bottom-left-radius: 50px;
   border-bottom-right-radius: 50px;
   overflow: hidden;
 }
-.v38_19 {
+.TSC{
   width: 222px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -460,60 +460,7 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v38_22 {
-  width: 25px;
-  background: url("../images/v38_22.png");
-  opacity: 1;
-  position: absolute;
-  top: 428px;
-  left: 306px;
-  border: 3px solid rgba(0,0,0,1);
-}
-.v38_24 {
-  width: 25px;
-  background: url("../images/v38_24.png");
-  opacity: 1;
-  position: absolute;
-  top: 428px;
-  left: 59px;
-  border: 3px solid rgba(0,0,0,1);
-  transform: rotate(-179deg);
-}
-.v38_25 {
-  width: 25px;
-  background: url("../images/v38_25.png");
-  opacity: 1;
-  position: absolute;
-  top: 1063px;
-  left: 309px;
-  border: 3px solid rgba(0,0,0,1);
-}
-.v70_8 {
-  width: 25px;
-  background: url("../images/v70_8.png");
-  opacity: 1;
-  position: absolute;
-  top: 1725px;
-  left: 309px;
-  border: 3px solid rgba(0,0,0,1);
-}
-.v70_9 {
-  width: 25px;
-  background: url("../images/v70_9.png");
-  opacity: 1;
-  position: absolute;
-  top: 1722px;
-  left: 66px;
-  border: 3px solid rgba(0,0,0,1);
-}
-.v38_26 {
-  width: 25px;
-  background: url("../images/v38_26.png");
-  opacity: 1;
-  position: absolute;
-  top: 1062px;
-  left: 65px;
-  border: 3px solid rgba(0,0,0,1);
+
 }
 .adresse {
   width: 243px;
@@ -527,10 +474,10 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v70_3 {
+.cercleJK {
   width: 135px;
   height: 26px;
-  background: rgba(0,0,0,1);
+  background: red;
   opacity: 0.30000001192092896;
   position: absolute;
   top: 1053px;
@@ -541,10 +488,10 @@ body {
   border-bottom-right-radius: 50px;
   overflow: hidden;
 }
-.v70_7 {
+.cercleAD {
   width: 135px;
   height: 26px;
-  background: rgba(0,0,0,1);
+  background: blue;
   opacity: 0.30000001192092896;
   position: absolute;
   top: 1710px;
@@ -555,7 +502,7 @@ body {
   border-bottom-right-radius: 50px;
   overflow: hidden;
 }
-.v70_4 {
+.TJK {
   width: 154px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -567,7 +514,7 @@ body {
   opacity: 1;
   text-align: center;
 }
-.v70_2 {
+.TAD {
   width: 340px;
   color: rgba(255,255,255,1);
   position: absolute;
