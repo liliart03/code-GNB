@@ -7,61 +7,52 @@
 	</head>
 	
 	<body>
-	<div class="v20_2">
-		<div class="v20_3"></div>
-		<div class="v23_23"></div>
+	<div class="backgroundnoir">
+		<div class="headerrouge"></div>
+		<div class="imgchien"></div>
 		<div class="v51_76"></div>
-		<div class="v58_120"></div>
+		<div class="logo"></div>
 		<div class="v22_2"></div>
 		<div class="v22_3"></div>
 		<div class="v22_4"></div>
 		
-		<span class="v21_5">Nos artistes vous ouvrent leur univers dans un décor monochrome. Vous retrouverez, au 10 rue de la République, nos trois photographes permanents, ainsi que de nombreuses expositions temporaires. Cette galerie indépendante a pour fil conducteur le noir et le blanc. Prenez plaisir à vous promener entre les différents univers présents dans chacun de nos artistes.</span>
+		<span class="texteduhaut">Nos artistes vous ouvrent leur univers dans un décor monochrome. Vous retrouverez, au 10 rue de la République, nos trois photographes permanents, ainsi que de nombreuses expositions temporaires. Cette galerie indépendante a pour fil conducteur le noir et le blanc. Prenez plaisir à vous promener entre les différents univers présents dans chacun de nos artistes.</span>
 		<span class="v21_6">LE BLANC ET LE NOIR</span>
-		<span class="v22_59">ACCUEIL</span>
-		<span class="v22_60">EVENTS</span>
-		<span class="v22_61">INFOS</span>
-		<div class="v22_62"></div>
-		<div class="v22_64"></div>
-		<div class="v22_65"></div>
-		<div class="v22_66"></div>
-		<div class="v22_68"></div>
-		<div class="v22_69"></div>
-		<div class="v22_70"></div>
-		<div class="v25_4"></div>
-		<div class="v25_9"></div>
-		<div class="v25_10"></div>
-		<div class="v25_6"></div>
-		<div class="v25_8"></div>
-		<div class="v25_13"></div>
-		<div class="v38_3"></div>
-		<div class="v38_2"></div>
-		<div class="v38_4"></div>
-		<div class="v38_7"></div>
-		<div class="v38_6"></div>
-		<div class="v38_8"></div>
-		<div class="v38_11"></div>
-		<div class="v38_10"></div>
-		<div class="v38_20"></div>
+		<span class="accueil">ACCUEIL</span>
+		<span class="events">EVENTS</span>
+		<span class="infos">INFOS</span>
+		<div class="footerrouge"></div>
+			<div class="SC1"></div>
+			<div class="SC3"></div>
+			<div class="SC4"></div>
+			<div class="SC6"></div>
+			<div class="SC2"></div>
+			<div class="SC5"></div>
+			<div class="JK1"></div>
+			<div class="JK2"></div>
+			<div class="JK3"></div>
+			<div class="JK4"></div>
+			<div class="JK5"></div>
+			<div class="SC"></div>
+			<div class="AD1"></div>
+			<div class="AD2"></div>
+			<div class="AD3"></div>
+			<div class="AD4"></div>
+			<div class="AD5"></div>
+			<div class="AD6"></div>
+			<div class="JK"></div>
+			<div class="AD"></div>
+			<div class="cercleSC"></div>
+		<span class="TSC">SOPHIE CALLE</span>		
+		<span class="adresse">10 rue de la République 75000 Paris</span>
+		<div class="cercleJK"></div>
+		<div class="cercleAD"></div>
 		
-		<span class="v38_19">SOPHIE CALLE</span>
-		
-		<div class="v38_22"></div>
-		<div class="v38_24"></div>
-		<div class="v38_25"></div>
-		<div class="v70_8"></div>
-		<div class="v70_9"></div>
-		<div class="v38_26"></div>
-		
-		<span class="v39_42">10 rue de la République 75000 Paris</span>
-		<div class="v70_3"></div>
-		<div class="v70_7"></div>
-		
-		<span class="v70_4">JOSEF KOUDELKA</span>
-		<span class="v70_2">ANTOINE DAGATA</span>
-		<span class="v83_229">CONTACT
-							TEL : 01.63.45.85.56 
-							FAX : 01.63.45.78.52 
+		<span class="TJK">JOSEF KOUDELKA</span>
+		<span class="TAD">ANTOINE DAGATA</span>
+		<span class="contact">CONTACT<br>
+							TEL : 01.63.45.85.56<br>
+							FAX : 01.63.45.78.52<br>
 							MAIL : dedal@gmail.com</span>
 	</div>
 	</body>
