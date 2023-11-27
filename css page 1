@@ -1,12 +1,13 @@
 * {
   box-sizing: center;
+  padding-left: 50px;
 }
 body {
   font-size: 14px;
 }
 .backgroundnoir{
-  width: 1660px;
-  height: 2521px;
+  width: 1540px;
+  height: 3000px;
   background: rgba(0,0,0,1);
   opacity: 1;
   position: relative;
@@ -24,20 +25,6 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.imgchien {
-  width: 100px;
-  height: 104px;
-  background: url("../images/v23_23.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 1496px;
-  left: 220px;
-  overflow: hidden;
-  right:50px;
-}
 .v51_76 {
   width: 1000px;
   height: 26px;
@@ -53,79 +40,79 @@ body {
   overflow: hidden;
 }
 .logo {
-  width: 100px;
-  height: 130px;
+  width: 130px;
+  height: 150px;
   background: url("../images/v58_120.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 20px;
-  left: 1500px;
+  top: 15px;
+  left: 1400px;
   overflow: hidden;
 }
 .v22_2 {
-  width: 200px;
+  width: 190px;
   height: 45px;
   background: rgba(0,0,0,1);
   opacity: 1;
   position: absolute;
   top: 10px;
-  left: 200px;
-  border-top-left-radius: 30px;
-  border-top-right-radius: 30px;
-  border-bottom-left-radius: 30px;
-  border-bottom-right-radius: 30px;
+  left: 230px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius:20px;
+  border-bottom-right-radius: 20px;
   overflow: hidden;
 }
 .v22_3 {
-  width: 200px;
+  width: 190px;
   height: 45px;
   background: rgba(0,0,0,1);
   opacity: 1;
   position: absolute;
   top: 65px;
-  left: 200px;
-  border-top-left-radius: 30px;
-  border-top-right-radius: 30px;
-  border-bottom-left-radius: 30px;
-  border-bottom-right-radius: 30px;
+  left: 230px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
   overflow: hidden;
 }
 .v22_4 {
-  width: 200px;
+  width: 190px;
   height: 45px;
   background: rgba(0,0,0,1);
   opacity: 1;
   position: absolute;
   top: 120px;
-  left: 200px;
-  border-top-left-radius: 30px;
-  border-top-right-radius: 30px;
-  border-bottom-left-radius: 30px;
-  border-bottom-right-radius: 30px;
+  left: 230px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
   overflow: hidden;
 }
 .texteduhaut {
-  width: 550px;
+  width: 1005px;
   color: rgba(255,255,255,1);
   position: absolute;
   top: 250px;
-  left: 525px;
-  font-size: 14px;
+  left: 340px;
+  font-size: 20px;
   opacity: 1;
   text-align: center;
 }
-.v21_6 {
-  width: 600px;
+.BN {
+  width: 1000px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 180px;
-  left: 500px;
+  top: 170px;
+  left: 355px;
   font-family: Inter;
   font-weight: Bold;
-  font-size: 50px;
+  font-size: 80px;
   opacity: 1;
   text-align: center;
 }
@@ -168,28 +155,41 @@ body {
 .footerrouge {
   width: 1660px;
   height: 190px;
-  background: rgba(152,0,0,0.8899999856948853);
+  background:rgba(152,0,0,0.8899999856948853);
   opacity: 1;
   position: absolute;
-  top: 2331px;
+  top: 2820px;
   left: 0px;
 }
 .SC1{
-  width: 101px;
-  height: 104px;
+  width: 200px;
+  height: 200px;
   background: url("../images/v22_64.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 524px;
-  left: 1px;
+  top: 678px;
+  left: 430px;
+  overflow: hidden;
+}
+.SC2 {
+  width: 200px;
+  height: 200px;
+  background: url("../images/v22_69.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 678px;
+  left: 800px;
   overflow: hidden;
 }
 .SC3 {
-  width: 101px;
-  height: 104px;
+  width: 200px;
+  height: 200px;
   background: url("../images/v22_65.png");
   background-repeat: no-repeat;
   background-position: center center;
@@ -197,276 +197,275 @@ body {
   opacity: 1;
   position: absolute;
   top: 678px;
-  left: 100px;
+  left: 1150px;
   overflow: hidden;
 }
 .SC4 {
-  width: 102px;
-  height: 104px;
+  width: 200px;
+  height: 200px;
   background: url("../images/v22_66.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 685px;
-  left: 300px;
-  overflow: hidden;
-}
-.SC6 {
-  width: 101px;
-  height: 104px;
-  background: url("../images/v22_68.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 846px;
-  left: 300px;
-  overflow: hidden;
-}
-.SC2 {
-  width: 102px;
-  height: 104px;
-  background: url("../images/v22_69.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 524px;
-  left: 300px;
+  top: 900px;
+  left: 430px;
   overflow: hidden;
 }
 .SC5 {
-  width: 101px;
-  height: 104px;
+  width: 200px;
+  height: 200px;
   background: url("../images/v22_70.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 846px;
-  left: 54px;
+  top: 900px;
+  left: 800px;
+  overflow: hidden;
+}
+.SC6 {
+  width: 200px;
+  height: 200px;
+  background: url("../images/v22_68.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 900px;
+  left: 1150px;
   overflow: hidden;
 }
 .JK1 {
-  width: 101px;
-  height: 104px;
+  width: 200px;
+  height: 200px;
   background: url("../images/v25_4.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 1171px;
-  left: 100px;
+  top: 1510px;
+  left: 430px;
   overflow: hidden;
 }
 .JK2 {
-  width: 101px;
-  height: 104px;
+  width: 200px;
+  height: 200px;
   background: url("../images/v25_9.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 1175px;
-  left: 200px;
+  top: 1510px;
+  left: 800px;
   overflow: hidden;
 }
 .JK3 {
-  width: 101px;
-  height: 104px;
+  width: 200px;
+  height: 200px;
   background: url("../images/v25_10.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 1332px;
-  left: 54px;
+  top: 1510px;
+  left: 1150px;
   overflow: hidden;
 }
 .JK4 {
-  width: 101px;
-  height: 104px;
+  width: 200px;
+  height: 200px;
   background: url("../images/v25_6.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 1332px;
-  left: 221px;
+  top: 1745px;
+  left: 430px;
   overflow: hidden;
 }
 .JK5 {
-  width: 101px;
-  height: 104px;
+  width: 200px;
+  height: 200px;
   background: url("../images/v25_8.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 1493px;
-  left: 60px;
+  top: 1745px;
+  left: 800px;
   overflow: hidden;
 }
-.SC {
-  width: 310px;
-  height: 137px;
-  background: url("../images/v25_13.png");
+.imgchien {
+  width: 200px;
+  height: 200px;
+  background: url("../images/v23_23.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 356px;
-  left: 1000px;
+  top: 1745px;
+  left: 1150px;
   overflow: hidden;
-}
-.AD1{
-  width: 101px;
-  height: 104px;
-  background: url("../images/v38_3.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 1848px;
-  left: 200px;
-  overflow: hidden;
-}
-.AD2 {
-  width: 101px;
-  height: 104px;
-  background: url("../images/v38_2.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 1848px;
-  left: 54px;
-  overflow: hidden;
-}
-.AD3 {
-  width: 101px;
-  height: 104px;
-  background: url("../images/v38_4.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 2009px;
-  left: 1000px;
-  overflow: hidden;
-}
-.AD4 {
-  width: 101px;
-  height: 104px;
-  background: url("../images/v38_7.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 2009px;
-  left: 500px;
-  overflow: hidden;
-}
-.AD5 {
-  width: 101px;
-  height: 104px;
-  background: url("../images/v38_6.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 2170px;
-  left: 100px;
-  overflow: hidden;
-}
-.AD6 {
-  width: 101px;
-  height: 104px;
-  background: url("../images/v38_8.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 2170px;
-  left: 300px;
-  overflow: hidden;
+  right:50px;
 }
 .JK {
-  width: 310px;
-  height: 137px;
+  width: 929px;
+  height: 340px;
   background: url("../images/v38_11.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 998px;
-  left: 100px;
+  top: 1130px;
+  left: 430px;
   overflow: hidden;
 }
 .AD {
-  width: 310px;
-  height: 137px;
+  width: 924px;
+  height: 340px;
   background: url("../images/v38_10.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
   opacity: 1;
   position: absolute;
-  top: 1654px;
-  left: 100px;
+  top: 1970px;
+  left: 430px;
+  overflow: hidden;
+}
+.SC {
+  width: 929px;
+  height: 340px;
+  background: url("../images/v25_13.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 325px;
+  left: 430px;
   overflow: hidden;
 }
 .cercleSC {
-  width: 135px;
-  height: 26px;
-  background: blue;
+  width: 400px;
+  height: 95px;
+  background: grey;
   opacity: 0.30000001192092896;
   position: absolute;
-  top: 415px;
-  left: 200px;
-  border-top-left-radius: 50px;
-  border-top-right-radius: 50px;
-  border-bottom-left-radius: 50px;
-  border-bottom-right-radius: 50px;
+  top: -20px;
+  left: 320px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius:30px;
+  border-bottom-right-radius:30px;
   overflow: hidden;
 }
 .TSC{
-  width: 222px;
+  width: 1000px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 419px;
-  left: 72px;
+  top: 480px;
+  left: 370px;
   font-family: Inter;
   font-weight: Light;
-  font-size: 14px;
+  font-size: 50px;
   opacity: 1;
   text-align: center;
 }
-
+.AD1{
+  width: 200px;
+  height: 200px;
+  background: url("../images/v38_3.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2350px;
+  left: 430px;
+  overflow: hidden;
+}
+.AD2 {
+  width: 200px;
+  height: 200px;
+  background: url("../images/v38_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2350px;
+  left: 800px;
+  overflow: hidden;
+}
+.AD3 {
+  width: 200px;
+  height: 200px;
+  background: url("../images/v38_4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2350px;
+  left: 1150px;
+  overflow: hidden;
+}
+.AD4 {
+  width: 200px;
+  height: 200px;
+  background: url("../images/v38_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2590px;
+  left: 430px;
+  overflow: hidden;
+}
+.AD5 {
+  width: 200px;
+  height: 200px;
+  background: url("../images/v38_6.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2590px;
+  left: 800px;
+  overflow: hidden;
+}
+.AD6 {
+  width: 200px;
+  height: 200px;
+  background: url("../images/v38_8.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2590px;
+  left: 1150px;
+  overflow: hidden;
 }
 .adresse {
   width: 243px;
   color: rgba(217,217,217,1);
   position: absolute;
-  top: 2479px;
+  top: 2960px;
   left: 740px;
   font-family: Inter;
   font-weight: Italic;
@@ -475,54 +474,54 @@ body {
   text-align: left;
 }
 .cercleJK {
-  width: 135px;
-  height: 26px;
-  background: red;
+  width: 500px;
+  height: 95px;
+  background: grey;
   opacity: 0.30000001192092896;
   position: absolute;
-  top: 1053px;
-  left: 116px;
-  border-top-left-radius: 50px;
-  border-top-right-radius: 50px;
-  border-bottom-left-radius: 50px;
-  border-bottom-right-radius: 50px;
+  top: 1275px;
+  left: 650px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
   overflow: hidden;
 }
 .cercleAD {
-  width: 135px;
-  height: 26px;
-  background: blue;
+  width: 500px;
+  height: 95px;
+  background: grey;
   opacity: 0.30000001192092896;
   position: absolute;
-  top: 1710px;
-  left: 120px;
-  border-top-left-radius: 50px;
-  border-top-right-radius: 50px;
-  border-bottom-left-radius: 50px;
-  border-bottom-right-radius: 50px;
+  top: 2080px;
+  left: 650px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
   overflow: hidden;
 }
 .TJK {
-  width: 154px;
+  width: 1000px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 1057px;
-  left: 105px;
+  top: 1290px;
+  left: 370px;
   font-family: Inter;
   font-weight: Light;
-  font-size: 14px;
+  font-size: 50px;
   opacity: 1;
   text-align: center;
 }
 .TAD {
-  width: 340px;
+  width: 1000px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 1714px;
-  left: 18px;
+  top: 2100px;
+  left: 370px;
   font-family: Inter;
   font-weight: Light;
-  font-size: 15px;
+  font-size: 50px;
   opacity: 1;
   text-align: center;
 }
@@ -530,7 +529,7 @@ body {
   width: 314px;
   color: rgba(255,255,255,1);
   position: absolute;
-  top: 2350px;
+  top: 2840px;
   left: 700px;
   font-size: 20px;
   opacity: 1;
