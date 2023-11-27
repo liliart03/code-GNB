@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet"/>
+<link href="./css/main.css" rel="stylesheet" />
+<title>Document</title>
+</head>
+
+<body>
+	<div class="BODY">
+		<div class="basdepage"> <img src=" GALRI/figma-to-htlm(3)/images/v5_43.png" alt="map">  
+		</div>
+		<div class="v5_43"></div>
+		<span class="v5_44">HORAIRES </span>
+		</div>
+	</div>
+		<div class="v5_51"></div>
+		<div class="v38_29"></div>
+		<span class="v5_53">DEVIS</span>
+		<span class="v5_62">CONTACT<br>
+TEL : 01.63.45.85.56<br>
+FAX : 01.63.45.78.52<br>
+MAIL : dedal@gmail.com<br>
+
+10 rue de la République 75000 Paris</span>
+<div class="v40_11">
+	<div class="v5_35">
+		<div class="v5_36"></div>
+	</div>
+</div>
+	<div class="v40_6"></div>
+	<span class="v40_8">INFOS</span>
+	<div class="v40_9"></div>
+	<span class="v40_10">EVENTS</span>
+	<div class="v40_2">
+		<div class="v40_3"></div>
+	</div>
+	<span class="v40_4">ACCUEIL</span>
+	<div class="v46_69"></div>
+	<div class="v51_74"></div>
+	<div class="v51_75"></div>
+	<div class="v46_70"></div>
+	<div class="v46_71"></div>
+	<span class="v51_89">NOM</span>
+	<span class="v51_90">PRENOM</span>
+	<span class="v51_91">MAIL</span>
+	<span class="v51_93">REFERENCE</span>
+	<span class="v51_92">TELEPHONE</span>
+	<div class="v58_104"></div>
+	<div class="v84_235"></div>
+	<span class="v38_30">BOUTIQUE</span>
+</div>
+</body>
+</html>
