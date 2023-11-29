@@ -8,10 +8,18 @@
 
 <body>
 	<div class="BODY">
-		<div class="basdepage"> <img src=" GALRI/figma-to-htlm(3)/images/v5_43.png" alt="map">  
+		<div class="basdepage"> <img src="figma-to-html(3)/v5_43.png" alt="map">  
 		</div>
-		<div class="v5_43"></div>
-		<span class="v5_44">HORAIRES </span>
+		<li>HORAIRES</li>
+		<ul>
+			<li>LUNDI : FERME</li>
+			<li>MARDI : 10H - 19H</li>
+			<li>MERECREDI : 10H-19H</li>
+			<li>JEUDI : 10H - 19H</li>
+			<li>VENDREDI : 10h - 19H</li>
+			<li>SAMEDI : 10H - 19H</li>
+			<li>DIMANCHE : 10H - 19H</li>
+
 		</div>
 	</div>
 		<div class="v5_51"></div>
@@ -28,12 +36,12 @@ MAIL : dedal@gmail.com<br>
 		<div class="v5_36"></div>
 	</div>
 </div>
-	<div class="v40_6"></div>
+	
 	<span class="v40_8">INFOS</span>
-	<div class="v40_9"></div>
+	
 	<span class="v40_10">EVENTS</span>
 	<div class="v40_2">
-		<div class="v40_3"></div>
+	
 	</div>
 	<span class="v40_4">ACCUEIL</span>
 	<div class="v46_69"></div>
