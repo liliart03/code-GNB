@@ -8,7 +8,7 @@ body {
 }
 
 html {
-	zoom:197%;
+	zoom:49%;
 }
 
 .fondnoir {
@@ -24,7 +24,7 @@ html {
 
 
 .fondhdp {
-  width: 3085px;
+  width: 3100px;
   height: 533px;
   background: rgba(152,0,0,0.8899999856948853);
   opacity: 1;
@@ -35,7 +35,7 @@ html {
 }
 
 .fondbdp {
-  width: 3085px;
+  width: 3099px;
   height: 550px;
   background: rgba(152,0,0,0.8899999856948853);
   opacity: 1;
