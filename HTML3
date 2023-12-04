@@ -7,11 +7,9 @@
 </head>
 
 <body>
-	<div class="BODY">
-		<div class="basdepage"> <img src="figma-to-html(3)/v5_43.png" alt="map">  
-		</div>
-		<li>HORAIRES</li>
-		<ul>
+
+	<span class="LI"><li>HORAIRES
+<ul>
 			<li>LUNDI : FERME</li>
 			<li>MARDI : 10H - 19H</li>
 			<li>MERECREDI : 10H-19H</li>
@@ -19,6 +17,11 @@
 			<li>VENDREDI : 10h - 19H</li>
 			<li>SAMEDI : 10H - 19H</li>
 			<li>DIMANCHE : 10H - 19H</li>
+		</ul></li> </span>
+
+	<div class="BODY">
+		<div class="basdepage"> <img src="figma-to-html(3)/images/v5_43.png" alt="map">  
+		</div>
 
 		</div>
 	</div>
