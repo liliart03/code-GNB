@@ -4,7 +4,7 @@
 }
 .body {
   font-size: 100px;
-  width:5000px;
+  width:1400px;
 }
 .backgroundnoir{
   display:flex;
@@ -18,42 +18,44 @@
   right: 120px;
   overflow: hidden;
 }
-.headerrouge {
-  width: 1840px;
-  height: 220px;
-  background: rgba(152,0,0,0.8899999856948853);
+#ACCUEIL {
+  width: 70px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 5px;
+  left: 80px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 20px;
   opacity: 1;
-  position: absolute;
-  top: 1px;
-  left: 0px;
-  overflow: hidden;
+  text-align: center;
+    text-decoration:none;
 }
-.v51_76 {
-  width: 1000px;
-  height: 26px;
-  background: rgba(0,0,0,1);
-  opacity: 0.30000001192092896;
+#EVENTS {
+  width: 70px;
+  color: rgba(255,255,255,1);
   position: absolute;
-  top: 1699px;
-  left: 100px;
-  border-top-left-radius: 50px;
-  border-top-right-radius: 50px;
-  border-bottom-left-radius: 50px;
-  border-bottom-right-radius: 50px;
-  overflow: hidden;
-}
-.logo {
-  width: 130px;
-  height: 200px;
-  background: url("../images/v58_120.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+  top: 75px;
+  left: 85px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 20px;
   opacity: 1;
+  text-align: center;
+    text-decoration:none;
+}
+#INFOS {
+  width: 70px;
+  color: rgba(255,255,255,1);
   position: absolute;
-  top: 15px;
-  left: 1150px;
-  overflow: hidden;
+  top: 150px;
+  left: 90px;
+  font-family: Inter;
+  font-weight: Black;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+    text-decoration:none;
 }
 .v22_2 {
   width: 190px;
@@ -97,6 +99,45 @@
   border-bottom-right-radius: 20px;
   overflow: hidden;
 }
+
+.headerrouge {
+  width: 1840px;
+  height: 220px;
+  background:
+      rgba(152,0,0,0.8899999856948853);
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 0px;
+  overflow: hidden;
+}
+
+
+.v51_76 {
+  width: 1000px;
+  height: 26px;
+  background: rgba(0,0,0,1);
+  opacity: 0.30000001192092896;
+  position: absolute;
+  top: 1699px;
+  left: 100px;
+  border-radius: 50px ;
+  overflow: hidden;
+}
+.logo {
+  width: 130px;
+  height: 200px;
+  background: url("../images/v58_120.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  left: 1150px;
+  overflow: hidden;
+}
+
 .texteduhaut {
   width: 1005px;
   color: rgba(255,255,255,1);
@@ -119,42 +160,7 @@
   opacity: 1;
   text-align: center;
 }
-.accueil {
-  width: 70px;
-  color: rgba(255,255,255,1);
-  position: absolute;
-  top: 28px;
-  left: 130px;
-  font-family: Inter;
-  font-weight: Black;
-  font-size: 20px;
-  opacity: 1;
-  text-align: center;
-}
-.events {
-  width: 70px;
-  color: rgba(255,255,255,1);
-  position: absolute;
-  top: 95px;
-  left: 130px;
-  font-family: Inter;
-  font-weight: Black;
-  font-size: 20px;
-  opacity: 1;
-  text-align: center;
-}
-.infos {
-  width: 70px;
-  color: rgba(255,255,255,1);
-  position: absolute;
-  top: 170px;
-  left: 130px;
-  font-family: Inter;
-  font-weight: Black;
-  font-size: 20px;
-  opacity: 1;
-  text-align: center;
-}
+
 .footerrouge {
   width: 1840px;
   height: 190px;
@@ -551,5 +557,4 @@
 }
 #headerrouge{
     max-width: 600px;
-}
 }
