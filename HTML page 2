@@ -1,74 +1,67 @@
 <!DOCTYPE html>
-	<html>
-		<head>
-			<meta name="viewport" content="width=device-width, initial-scale=1.0">
-			<link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet" />
-			<link href="./css/main.css" rel="stylesheet" />
-			<title>EVENTS</title>
-		</head>
-		
-		<body>
-			<div class="fondnoir"></div>
-			<div class="fondhdp"></div>
-			<div class="fondbdp"></div>
-			<div class="image1"></div>
-			
-				<span class="janvier">JANVIER</span>
-				<span class="fevrier">FEVRIER</span>
-				<span class="mars">MARS</span>
-				<span class="avril">AVRIL</span>
-			
-			<div class="image3"></div>
-			<div class="image4"></div>
-		
-				<div class="textedor"><span class="dorothea">DOROTHEA LANGE<br>
-				8 janvier 2024 au 25 janvier 2024<br>
-				<br>
-				Dorothea Lange a traité durant 20 ans de la Grande Dépression, portrayant migrants, travailleurs, esclaves et paysans. 
-				Retrouvez l’histoire d’une Amérique fragmentée, à travers son oeil ambitieux.</span></div>
-			
-				<div class="textemary"><span class="maryellen">MARY ELLEN MARK<br>
-				4 mars 2024 au 27 mars 2024<br>
-				<br>
-				Mary Ellen Mark se plonge dans la street photographie et tire des portraits, classés comme de la photographie documentaire, 
-				de personnes en marge de la société.</span></div>
-				
-				<div class="textebra"><span class="brassai">BRASSAÏ<br>
-				10 avril 2024 au 30 avril 2024<br>
-				<br>
-				Brassaï est spécialiste de la photo nocturne. Il réaliste, dans les années 30, un portrait complet de Paris. 
-				Cette exposition, “Paris de Nuit” nous plonge dans l’essence même de la capitale.</span></div>
-			
-			<div class="image2"></div>
-			
-				<span class="weegee">WEEGEE<br>
-				2 février 2024 au 27 février 2024<br>
-				<br>
-				Weegee, photographe ukrainien du XXe siècle, portrait le crime et l’urgence. Son travail, journalistique, 
-				est considéré comme cru, absurde et brutal.</span>
-				
-			<div class="v69_3"></div>
-			
-				<span class="infos">INFOS</span>
-				
-			<div class="v58_126"></div>	
-			<div class="v57_20"></div>
-			
-				<span class="events">EVENTS</span>
-				
-			<div class="v57_22"></div>
-			<div class="v57_23"></div>
-			
-				<span class="accueil">ACCUEIL</span>
-				
-			<div class="logo"></div>
-			
-				<span class="basdepage"><span class="contact">CONTACT</span><br>
-				TEL : 01.63.45.85.56 <br>
-				FAX : 01.63.45.78.52 <br>
-				MAIL : dedal@gmail.com<br>
-				<br>
-				10 rue de la République 75000 Paris</span></div>
-				
-			</body>
-	</html>
+<html>
+    <head><link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet" />
+          <link href="./css/CSSpage2.css" rel="stylesheet" />
+          <meta name="viewport" content="width=devide-width, initial-scale=1.0"/>
+          <title>Galerie "Le blanc et le noir - Page évenements</title>
+    </head>
+    <body>
+        <div class="noir"></div>
+        <div class="v57_16"></div>
+         <div class="headerrouge"></div>  
+         <div class="footerrouge"></div>
+        <div class="J"></div>
+        
+        <span class="janvier">JANVIER</span>
+        <span class="fevrier">FEVRIER</span>
+        <span class="mars">MARS</span>
+        <span class="avril">AVRIL</span>
+        
+        <div class="M"></div>
+        <div class="A"></div>
+        <div class="v48_3"></div>
+        
+            <span class="TF">DOROTHEA LANGE<br>
+ 8 janvier 2024 au 25 janvier 2024<br>
+
+Dorothea Lange a traité durant 20 ans de la<br> Grande Dépression, portrayant migrants, <br>travailleurs, esclaves et paysans. Retrouvez <br>l’histoire d’une Amérique fragmentée, à <br>travers son oeil ambitieux.</span>
+           
+            <div class="v48_4"></div>
+        
+        <span class="TM">MARY ELLEN MARK<br>
+4 mars 2024 au 27 mars 2024<br>
+Mary Ellen Mark se plonge dans la street<br> photographie et tire des portraits, classés<br> comme de la photographie documentaire,<br> de personnes en marge de la société.
+</span>
+            
+         <div class="v48_2"></div>
+        
+        <span class="TA">BRASSAÏ<br>
+10 avril 2024 au 30 avril 2024<br>
+Brassaï est spécialiste de la photo nocturne.<br> Il réaliste, dans les années 30, un portrait <br>complet de Paris. Cette exposition, “Paris de <br>Nuit” nous plonge dans l’essence même de <br>la capitale.</span>
+        
+        <div class="F"></div>
+        
+        <span class="TJ">WEEGEE<br>
+2 février 2024 au 27 février 2024<br>
+Weegee, photographe ukrainien du XXe <br>siècle, portrait le crime et l’urgence. Son<br> travail, journalistique, est considéré comme<br> cru, absurde et brutal.</span>
+        
+        <div class="v69_3"></div>
+
+            <a href="indexbis.html " id="accueil"><p>ACCUEIL</p></a>
+            <a href="HTML page2.html" id="events"><p>EVENTS</p></a>
+    	    <a href="HTMLpage3.html" id="infos"><p>INFOS</p></a>
+    
+        <div class="v58_126"></div>     
+        <div class="v57_20"></div>  
+        <div class="v57_22"></div>
+        <div class="v57_23"></div>
+   
+        <div class="logo"></div>
+        <span class="contact">CONTACT<br>
+TEL : 01.63.45.85.56 <br>
+FAX : 01.63.45.78.52 <br>
+MAIL : dedal@gmail.com<br>
+
+10 rue de la République 75000 Paris</span>
+</body>
+</html>
