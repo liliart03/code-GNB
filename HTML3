@@ -1,65 +1,58 @@
 <!DOCTYPE html>
 <html>
-<head>
-<link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet"/>
-<link href="./css/main.3.css" rel="stylesheet" />
-<title>Document</title>
-</head>
-
-<body>
-
-	<span class="LI"><li>HORAIRES
-<ul>
-			<li>LUNDI : FERME</li>
-			<li>MARDI : 10H - 19H</li>
-			<li>MERECREDI : 10H-19H</li>
-			<li>JEUDI : 10H - 19H</li>
-			<li>VENDREDI : 10h - 19H</li>
-			<li>SAMEDI : 10H - 19H</li>
-			<li>DIMANCHE : 10H - 19H</li>
-		</ul></li> </span>
-
-	<div class="BODY">
-		<div class="basdepage"> <img src="figma-to-html(3)/images/v5_43.png" alt="map">  
-		</div>
-
-		</div>
-	</div>
-		<div class="v5_51"></div>
-		<div class="v38_29"></div>
-		<span class="v5_53">DEVIS</span>
-		<span class="v5_62">CONTACT<br>
-TEL : 01.63.45.85.56<br>
-FAX : 01.63.45.78.52<br>
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet" />
+        <link href="./css/CSS3.css" rel="stylesheet" />
+        <meta name="viewport" content="width=devide-width, initial-scale=1.0"/>
+        <title>Galerie "Le blanc et le noir - Page informations</title>
+    </head>
+    
+    <body>
+        <div class="noir">
+            <div class="headerrouge"></div>
+             <a href="indexbis.html " id="accueil"><p>ACCUEIL</p></a>
+              <a href="HTML page2.html" id="events"><p>EVENTS</p></a>
+    	    <a href="HTMLpage3.html" id="infos"><p>INFOS</p></a>
+               <div class="logo"></div>
+             <div class="footerrouge"></div>
+            <div class="carte"></div>
+        
+            
+            <span class="horaire">HORAIRES</span>
+            <span class="jours">LUNDI:FERME<br><br>
+                MARDI:10H-19h<br> <br>MERCREDI:10H-19H<br><br>
+                JEUDI:10H-19H <br><br>VENDREDI:10h-19H<br><br>
+                SAMEDI:10h-19H<br> <br>DIMANCHE:10-19H</span>
+            <div class="v48_5"></div>
+            <div class="v48_6"></div>
+            <div class="v44_3"></div>
+            <div class="cercleB"></div>
+            <div class="boutique"></div>
+            <span class="TB">BOUTIQUE</span>
+            <span class="CONTACT">CONTACT<br>
+TEL : 01.63.45.85.56 <br>
+FAX : 01.63.45.78.52 <br>
 MAIL : dedal@gmail.com<br>
-
 10 rue de la République 75000 Paris</span>
-<div class="v40_11">
-	<div class="v5_35">
-		<div class="v5_36"></div>
-	</div>
-</div>
-	
-	<span class="v40_8">INFOS</span>
-	
-	<span class="v40_10">EVENTS</span>
-	<div class="v40_2">
-	
-	</div>
-	<span class="v40_4">ACCUEIL</span>
-	<div class="v46_69"></div>
-	<div class="v51_74"></div>
-	<div class="v51_75"></div>
-	<div class="v46_70"></div>
-	<div class="v46_71"></div>
-	<span class="v51_89">NOM</span>
-	<span class="v51_90">PRENOM</span>
-	<span class="v51_91">MAIL</span>
-	<span class="v51_93">REFERENCE</span>
-	<span class="v51_92">TELEPHONE</span>
-	<div class="v58_104"></div>
-	<div class="v84_235"></div>
-	<span class="v38_30">BOUTIQUE</span>
-</div>
-</body>
+            
+            <div class="v40_11"></div>
+            <div class="v5_35"></div>
+            <div class="v40_6"></div>
+            <div class="v40_9"></div>
+            <div class="v40_2"></div>
+            <div class="v40_3"></div>
+            
+            <div class="devisblanc"></div>
+            <div class="v1"></div>
+            <div class="v2"></div>
+            <div class="v3"></div>
+            <div class="v4"></div>
+            <div class="v5"></div>
+            <span class="Tdevis">DEVIS</span>
+            <span class="nom">NOM</span>
+            <span class="prenom">PRENOM</span>
+            <span class="mail">MAIL</span>
+            <span class="reference">REFERENCE</span>
+            <span class="telephone">TELEPHONE</span>
+       </body>
 </html>
