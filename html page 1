@@ -2,31 +2,30 @@
 	<html>
 	<head>
 		<link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet" />
-		<link href="./css/main.css" rel="stylesheet" />
+		<link href="./css/mainbis.css" rel="stylesheet" />
         <meta name="viewport" content="width=devide-width, initial-scale=1.0"/>
-		<title>Document</title>
+		<title>Galerie "Le blanc et le noir - Page d'accueil</title>
 	</head>
 	
 	<body>
 	<div class="backgroundnoir">
-		<div class="headerrouge"></div>
+		<div class="headerrouge">
+            <div class="v22_2"></div>
+	    	<div class="v22_3"></div>
+	    	<div class="v22_4"></div>
+           
+            <a href="indexbis.html " id="ACCUEIL"><p>ACCUEIL</p></a>
+            <a href="HTML page2.html" id="EVENTS"><p>EVENTS</p></a>
+    	    <a href="HTML3.html" id="INFOS"><p>INFOS</p></a>
+            
+            
+        </div>
 		<div class="v51_76"></div>
 		<div class="logo"></div>
-		<div class="v22_2"></div>
-		<div class="v22_3"></div>
-		<div class="v22_4"></div>
-        
-        <div id="menu">
-            <a href:"ACCUEIL"</a>
-            <a href:"EVENTS"</a>
-    		<a href:"INFOS"</a>
-        </div>
-        
+    
+           
 		<span class="texteduhaut">Nos artistes vous ouvrent leur univers dans un décor monochrome. Vous retrouverez, au 10 rue de la République, nos trois photographes permanents, ainsi que de nombreuses expositions temporaires. Cette galerie indépendante a pour fil conducteur le noir et le blanc. Prenez plaisir à vous promener entre les différents univers présents dans chacun de nos artistes.</span>
 		<span class="BN">LE BLANC ET LE NOIR</span>
-		<span class="accueil">ACCUEIL</span>
-		<span class="events">EVENTS</span>
-		<span class="infos">INFOS</span>
 		<div class="footerrouge"></div>
             <div class="SC"></div>
             <span class="TSC">SOPHIE CALLE
