@@ -4,6 +4,12 @@
 		<link href="https://fonts.googleapis.com/css?family=Inter&display=swap" rel="stylesheet" />
 		<link href="./css/mainbis.css" rel="stylesheet" />
         <meta name="viewport" content="width=devide-width, initial-scale=1.0"/>
+<meta name="description" content="Découvrez la Galerie 'Le blanc et le noir', un espace dédié à l'art monochrome où nos artistes vous invitent à explorer leur univers. Visitez nos expositions permanentes et temporaires au 10 rue de la République, Paris." />
+<meta name="keywords" content="galerie d'art, noir et blanc, photographie, expositions, artistes, Paris" />
+<meta name="author" content="sophie calle, josef koudelka, antoine dagata" />
+<meta name="description" content="free web informations, événément" />
+<meta name="language" content="French" />
+<meta name="revisit-after" content="7 days" />
 		<title>Galerie "Le blanc et le noir - Page d'accueil</title>
 	</head>
 	
